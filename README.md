@@ -22,47 +22,23 @@ The numbers are hidden in the corresponding color on the board, and if number ca
 
 ![Time Line Image](https://i.imgur.com/wErIpJ9.png)
 
-Our task is to find a way out of the maze, it will always be at the end of the maze (on the right side of the screen), but where exactly - we do not know, since the exit point from the labyrinth is randomly generated each time. If we find a way out of the maze we will see the inscription that you win.
-
-![Win Inscription Image](https://i.imgur.com/pdxWfgd.png?1)
-
-If the slider has timed out, then the inscription appears on the screen that the game is lost.
-
-![Lost Inscription Image](https://i.imgur.com/Vw6Hh2J.png?1)
-
 [Back To The Top](#random-numbers)
 
 ---
 
 ## How To Use
 
-#### Installation for LINUX
-
-Open your terminal and type the next commands
-
-1. Download the game in your current directory
+1. Go to the link with the game [Random Numbers](https://play.unity.com/mg/other/schulte-o)
 
 ```
-git clone https://github.com/taranchik/cube-labyrinth-game
+https://play.unity.com/mg/other/schulte-o
 ```
 
-2. Go to the directory with the executable file
+2. When the game is over, copy and send your results to the e-mail
 
 ```
-cd cube-labyrinth-game/qtglgame/builds/
+tv42191@zut.edu.pl
 ```
-
-3. Run the game
-
-```
-./qtglgame
-```
-
-4. Do not forget to click on maximize the window, since you could not see the cube
-
-![Maximize Image](https://i.imgur.com/nmK9f37.png?1)
-
-5. Enjoy :)
 
 [Back To The Top](#random-numbers)
 
