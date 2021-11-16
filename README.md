@@ -2,7 +2,7 @@
 
 ![Project Image](https://i.imgur.com/pL1eFAI.png)
 
-> Random Numbers is a Unity based game where the goal is to find appropriate number on the board for a certain period of time.
+> Random Numbers is a Unity Engine based game where the goal is to find appropriate number on the board for a certain period of time.
 
 ---
 
@@ -37,17 +37,23 @@ If the slider has timed out, then the inscription appears on the screen that the
 ## How To Use
 
 #### Installation for LINUX
+
 Open your terminal and type the next commands
 
 1. Download the game in your current directory
+
 ```
 git clone https://github.com/taranchik/cube-labyrinth-game
 ```
+
 2. Go to the directory with the executable file
+
 ```
 cd cube-labyrinth-game/qtglgame/builds/
 ```
+
 3. Run the game
+
 ```
 ./qtglgame
 ```
@@ -63,9 +69,7 @@ cd cube-labyrinth-game/qtglgame/builds/
 ---
 
 ## References
+
 [Unity Engine](https://www.opengl.org/sdk/libs/)
-
-[OpenGL Library Documentation](https://www.opengl.org/sdk/libs/)
-
 
 [Back To The Top](#random-numbers)
