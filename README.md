@@ -28,12 +28,12 @@ Each time you start the game, numbers are generated randomly on the board. The r
 
 ## How To Use
 
-1. Download the game [Random Numbers](https://drive.google.com/file/d/17nk37n8lv7dXNceir3laLMFlsll__dKX/view?usp=sharing) accessing the link below 
+1. Download the game [Random Numbers](https://drive.google.com/file/d/11D2Uzpm11KXYDTbMZo8GixzEHQZLt9mG/view?usp=sharing) accessing the link below 
 
 ![Download game](https://i.imgur.com/2I4L1wA.png)
 
 ```
-https://drive.google.com/file/d/17nk37n8lv7dXNceir3laLMFlsll__dKX/view?usp=sharing
+https://drive.google.com/file/d/11D2Uzpm11KXYDTbMZo8GixzEHQZLt9mG/view?usp=sharing
 ```
 
 2. Unpack the Table Schulte.rar archive
